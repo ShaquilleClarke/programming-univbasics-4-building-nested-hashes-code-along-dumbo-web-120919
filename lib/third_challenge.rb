@@ -12,14 +12,14 @@ def third_challenge
          :name => "Romeo",
          :age => "15"
     },
-       :hero_friends => [{name:, age:, attitude:}, {name:, age:, attitude:}]#your key/value pairs here!
+       :hero_friends => [{name: , age: , attitude: }, {name: , age: , attitude: }]#your key/value pairs here!
 },
     :capulet => {
       :patriarch => { :name => "Lord Capulet",
       :age => "50"}, :matriarch => {:name => "Lady Capulet",
       :age => "51"}, :heroine => {:name => "Juliet",
       :age => "15",
-      :status => "alive"}, :heroine_friends => [{name:, age:, attitude:}, {name:, age:, attitude:}]#your key/value pairs here!
+      :status => "alive"}, :heroine_friends => [{name: , age: , attitude:}, {name: , age: , attitude: }]#your key/value pairs here!
       }
 
 
